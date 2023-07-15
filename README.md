@@ -2,4 +2,6 @@
 
 Sample code for votting app as
 
-python app as runner
+**#python app as runner**
+
+**#redis access  runner**
